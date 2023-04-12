@@ -19,7 +19,7 @@ header div img {
 }
 
 .menuNav {
-    background: rgb(236, 236, 10);
+    background: #e4ab1c;
     padding: 0.1%;
     flex: 1;
     text-align: center;
@@ -98,3 +98,17 @@ article img {
 .rodape img {
     width: 90px;
 }
+
+.servicos img {
+    width: 100%;
+    /* margin-bottom: 50px; */
+}
+
+/* .servicos table {
+    display: flex;
+    align-items: center;
+} */
+
+/* .servicos table tr td {
+    margin-bottom: 50px;
+} */
