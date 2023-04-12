@@ -19,7 +19,7 @@ header div img {
 }
 
 .menuNav {
-    background: rgb(236, 236, 10);
+    background: #e4ab1c;
     padding: 0.1%;
     flex: 1;
     text-align: center;
@@ -45,6 +45,7 @@ header div img {
     color: black;
     font-weight: bold;
     font-family: 'Teko', sans-serif;
+    font-size: larger;
 }
 
 .menuNav ul li a:hover {
@@ -60,3 +61,54 @@ h1 {
     font-family: 'Teko', sans-serif;
     font-size: 35px;
 }
+
+article img {
+    /* width: 100%; */
+    
+}
+
+.rodape {
+    background: black;
+    padding: 0.1%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* position: fixed bottom; */
+}
+
+.rodape ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rodape ul li {
+    align-items: center;
+    margin-left: 15px;
+}
+
+.rodape ul li a {
+    text-decoration: none;
+    align-items: center;
+    color: white;
+    font-family: 'Teko', sans-serif;
+}
+
+.rodape img {
+    width: 90px;
+}
+
+.servicos img {
+    width: 100%;
+    /* margin-bottom: 50px; */
+}
+
+/* .servicos table {
+    display: flex;
+    align-items: center;
+} */
+
+/* .servicos table tr td {
+    margin-bottom: 50px;
+} */
