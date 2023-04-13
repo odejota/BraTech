@@ -100,14 +100,13 @@ article img {
 }
 
 .servicos img {
-    width: 100%;
+    width: 500px;
     /* margin-bottom: 50px; */
 }
 
-/* .servicos table {
-    display: flex;
-    align-items: center;
-} */
+.servicos table {
+    border-spacing: 40px;
+}
 
 /* .servicos table tr td {
     margin-bottom: 50px;
